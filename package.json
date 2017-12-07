@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "bignumber": "git+http://git.ebookchain.net/newblock/bignumber/tarball/master",
+    "bignumber": "git+ssh://git@git.ebookchain.net:newblock/bignumber.git",
     "change-case": "3.0.0",
-    "json-sql": "git+http://git.ebookchain.net/newblock/json-sql/tarball/master",
+    "json-sql": "git+ssh://git@git.ebookchain.net:newblock/json-sql.git",
     "tracer": "^0.8.11"
   },
   "devDependencies": {
