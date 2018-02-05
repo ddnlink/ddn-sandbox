@@ -1,7 +1,7 @@
 {
-  "name": "ebookchain-sandbox",
+  "name": "ddn-sandbox",
   "version": "1.0.0",
-  "description": "ebookchain sandbox which is used to run sidechain dapps",
+  "description": "ddn sandbox which is used to run sidechain dapps",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha",
