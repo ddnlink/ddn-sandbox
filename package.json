@@ -11,9 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "bignumber": "git+ssh://git@git.ebookchain.net:ddn/bignumber.git",
     "change-case": "3.0.0",
-    "json-sql": "git+ssh://git@git.ebookchain.net:ddn/json-sql.git",
     "tracer": "^0.8.11"
   },
   "devDependencies": {
