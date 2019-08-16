@@ -1,5 +1,5 @@
 {
-  "name": "ddn-sandbox",
+  "name": "@ddn/ddn-sandbox",
   "version": "1.0.0",
   "description": "ddn sandbox which is used to run sidechain dapps",
   "main": "index.js",
